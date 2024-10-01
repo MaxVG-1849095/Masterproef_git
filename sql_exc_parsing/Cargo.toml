@@ -1,0 +1,12 @@
+[package]
+name = "sql_exc_parsing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.18", features = ["derive"] }
+datafusion = "=42.0.0"
+rand = "0.8.5"
+tokio = { version = "1.0", features = ["rt-multi-thread"] }
+regex = "1.10.6"
+

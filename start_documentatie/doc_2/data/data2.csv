@@ -1,0 +1,15 @@
+a,b,c,d,e,f
+1,5,apple,2024-01-01,10.5,true
+2,3,banana,2023-12-12,20.0,false
+3,3,cherry,2023-11-11,30.75,true
+4,6,date,2024-03-03,15.2,false
+5,2,elderberry,2023-10-10,50.5,true
+2,2,fig,2024-05-05,25.5,true
+3,7,grape,2023-09-09,12.0,false
+4,5,honeydew,2024-06-06,35.5,true
+1,6,kiwi,2024-02-02,45.1,false
+2,4,lemon,2023-08-08,18.9,true
+3,9,mango,2023-07-07,22.4,false
+4,8,nectarine,2024-04-04,40.3,true
+5,7,orange,2023-06-06,60.7,false
+1,4,papaya,2023-05-05,55.2,true
